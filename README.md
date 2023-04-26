@@ -32,6 +32,11 @@ I am a microcontroller programmer and roboticist. <img src="https://media.giphy.
 
 ### :hammer_and_wrench: Languages and Tools :
 
+<div>
+  <img src="https://www.python.org/static/favicon.ico" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
+
 ---
 
 <div align="center">

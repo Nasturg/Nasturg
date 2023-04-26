@@ -20,15 +20,20 @@
 
 I am a microcontroller programmer and roboticist. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: 
-- 
-- :seedling: 
+- :telescope: Worked with raspberry pi and esp32 controller.
 
-- :zap: 
+- :seedling: Studying technical content on stepik and courser.
+
+- :zap: In my free time I solve problems on LeetСode and read technical articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nasturg-blue?style=flat&logo=Telegram&logoColor=white)]([your-linkedin-url](https://t.me/nasturg))
 
 ---
+
+### :hammer_and_wrench: Languages and Tools :
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300"/>
 </div>
